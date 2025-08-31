@@ -17,7 +17,7 @@ This project is a Medical Diagnosis System (MDS) that predicts diseases based on
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kevilgs/MedDiagSys.git
+  https://github.com/Sohamcodesabit/Medical-Diagnosis-System.git
    cd MDS
    ```
 
