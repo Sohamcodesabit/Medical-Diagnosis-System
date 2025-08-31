@@ -19,10 +19,10 @@ This project is a Medical Diagnosis System (MDS) that predicts diseases based on
    ```bash
   https://github.com/Sohamcodesabit/Medical-Diagnosis-System.git
    cd MDS
-   ```
+   ```bash
 
 2. Install dependencies:
-   ```bash
+
    pip install -r requirements.txt
    ```
 
